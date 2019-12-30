@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UIComponents</string>
+
+    <string-array name="phoneType">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+    </string-array>
+</resources>
